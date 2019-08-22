@@ -1,0 +1,2 @@
+Given two words and a group of words in a text file
+find the distance between the two words in terms of number of words
